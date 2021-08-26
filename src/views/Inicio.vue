@@ -20,16 +20,14 @@ section
                 p.banner-principal__datos__item__texto 524704
               li.mb-2.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 2208 horas
+                p.banner-principal__datos__item__texto 2208
               li.mb-2.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 52 Semanas
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
+                p.banner-principal__datos__item__texto 15 meses
               li.mb-2.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                p.banner-principal__datos__item__texto nivel académico básica secundaria (certificación académica de grado 9) y edad mínima 14 años.   
+            
               
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
@@ -61,10 +59,17 @@ section
 
     p Aprendices técnicos, estudiantes de articulación con la media, empresas familiares, unipersonales, mi Pymes, sociedades, personas naturales productivas, pymes, grandes empresas, organizaciones sociales, organizaciones defensoras de derechos humanos, otras comunidades, organizaciones locales, nacionales e internacionales del sector público y privado.
 
+  
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
+    .titulo__template--a.mb-4
+      span.h4 4. Perfil de ingreso
+
+    p Nivel académico básica secundaria (certificación académica de grado 9) y edad mínima 14 años.
+
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 4. Estrategia metodológica
+      span.h4 5. Estrategia metodológica
 
     p Está centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje que, en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
     p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:

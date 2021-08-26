@@ -49,8 +49,38 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo Lopez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+      },
+      {
+        nombre: 'Andrea Paola Botello De la Rosa',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
@@ -61,14 +91,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Andrea Paola Botello De la Rosa',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
-      },
-
-      {
-        nombre: ' ',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',

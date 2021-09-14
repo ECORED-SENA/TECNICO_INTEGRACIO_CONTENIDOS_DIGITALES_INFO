@@ -1,1 +1,1 @@
-module.exports = 'Técnico de integración de contenidos digitales'
+module.exports = 'Técnico en integración de contenidos digitales'
